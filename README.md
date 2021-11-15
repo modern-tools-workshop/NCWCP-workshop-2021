@@ -1,12 +1,13 @@
 # Python for Earth Sciences
 
-### by [Rebekah Esmaili](http://www.rebekahesmaili.com), [Kriti Bhargava](https://cisess.umd.edu/meet-our-scientists/kriti-bhargava/), and [Eviatar Bach](http://eviatarbach.com/)
+### Instructor: [Rebekah Esmaili](http://www.rebekahesmaili.com)
 ---
 
 A crash course in Python focusing on reading and visualizing data-sets used in Earth sciences.
 
 Access materials via GitHub: [https://ter.ps/noaapy](https://ter.ps/noaapy)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/NCWCP-python-workshop-2020.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/NCWCP-workshop-2021/HEAD)
+
 ---
 
 ## Getting Started
@@ -85,6 +86,15 @@ I *do not* recommend:
 
 ### General Python resources   
 
-<b> Free online Tutorials</b>
+<b> Beginner Tutorials</b>
    * Youtube series for absolute beginners [CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
-   * Enhance your workflow [Automate Boring Stuff](https://automatetheboringstuff.com/)
+   * [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) Free eBook to enhance your workflow
+
+<b> Intermediate Tutorials</b>  
+   * Learn more about [Python for Atmosphere and Ocean Scientists](https://carpentries-lab.github.io/python-aos-lesson/) using Software Carpentry lesson plans.
+   * I have a longer workshop on [Python for Earth Science with Rebekah](https://youtube.com/playlist?list=PLlcgQ3Rl-9fR4oOmfeKPKHuk2Lj57bNJy)
+   * [Earth Observation using Python](https://www.wiley.com/en-us/Earth+Observation+using+Python%3A+A+Practical+Programming+Guide-p-9781119606888) builds on the content of the workshop above.
+   * [Python for Climate and Meteorology](https://www.youtube.com/watch?v=uQZAEPnUZ5o) Another tutorial taught at AMS, a little more advanced.
+
+<b> Advanced tutorials Tutorials </b>
+    * May offer advanced workshop in spring
