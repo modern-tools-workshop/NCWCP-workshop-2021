@@ -32,7 +32,7 @@ Installation requirements
 "I am really new to Python!"
 
 * I recommend launching binder, which is a "cloud version" of this course. No installation required!
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/NCWCP-python-workshop-2020.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/NCWCP-workshop-2021/HEAD)
 
 "I have used Python before!"
 
